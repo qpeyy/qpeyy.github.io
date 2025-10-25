@@ -1,8 +1,8 @@
-const OWNER = "YOUR_GITHUB_USERNAME";
-const REPO = "YOUR_REPO_NAME";
+const OWNER = "qpeyy";
+const REPO = "api";
 const FILE_PATH = "apis.txt"; // Path to file in repo
 const BRANCH = "main";
-const TOKEN = "YOUR_PERSONAL_ACCESS_TOKEN"; // ⚠️ Never share publicly
+const TOKEN = "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"; // ⚠️ Never share publicly
 
 document.getElementById("donateForm").addEventListener("submit", async (e) => {
   e.preventDefault();
