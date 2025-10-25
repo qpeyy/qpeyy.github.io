@@ -2,7 +2,7 @@ const OWNER = "qpeyy";
 const REPO = "api";
 const FILE_PATH = "apis.txt"; // Path to file in repo
 const BRANCH = "main";
-const TOKEN = "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"; // ⚠️ Never share publicly
+const TOKEN = "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"; // ⚠️ Never share publicly
 
 document.getElementById("donateForm").addEventListener("submit", async (e) => {
   e.preventDefault();
