@@ -1,6 +1,6 @@
 const OWNER = "qpeyy";
 const REPO = "api";
-const FILE_PATH = "apis.txt"; // Path to file in repo
+const FILE_PATH = "apis.txt"; // Make sure it matches your file in GitHub
 const BRANCH = "main";
 const TOKEN = "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"; // ⚠️ Never share publicly
 
